@@ -4,15 +4,14 @@
 🏗️ Building the tech behind prescriptions, fulfillment, and delivery  
 🤖 AI Explorer | Tinkering with healthcare AI workflows  
 🍵 Powered by matcha and ambition  
-🌦️ Based in Seattle | Born in Israel | Running on curiosity and long walks with my dog  
+🌦️ Based in Seattle | Running on curiosity and long walks with my dog  
 
 ---
 
 ### 🧠 What I'm Into
 
 - 🩺 Healthcare tech that doesn’t suck  
-- 🤯 Using LLMs and automation to fix pharmacy operations  
-- 🧰 Ruby on Rails, Kafka, event-driven everything, react.js and more  
+- 🤯 Using LLMs and automation  
 - 🧪 Product experimentation with real impact  
 - 🏊‍♂️ Couch-to-triathlon training (wish me luck)  
 - 🐶 Dog-wrangling runs disguised as morning exercise  
@@ -20,15 +19,15 @@
 ---
 
 ### 🛠️ Projects You'll Find Here
-
-- AI tools for pharmacy automation  
+- AI tools  
 - Dev tools and backend playgrounds I probably overthink  
 - Scripts to make life smoother and inboxes emptier   
 ---
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nir-sheep/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nir-sheep/)
+- [My website and blog](https://nir.dev) 
 - ✉️ Open an issue, fork something, or just say hey  
 
 > “Code is poetry. Except mine—mine is functional sarcasm. With a touch of AI.”
